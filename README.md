@@ -22,3 +22,10 @@ Affichage des 3 partitions du système
 
 ![image](https://github.com/techerbeatrice/LVM_Linux/assets/138071140/e7b8ef54-3465-457c-a343-7aa2f6d9d6e1)
 
+![image](https://github.com/techerbeatrice/LVM_Linux/assets/138071140/d4c2d5a2-de2a-4f4c-beb7-6b72a393d21d)
+
+___
+
+Ajoute un nouveau disque à la machine et ajoute le au groupe de volume debian-vg pour au moins doubler l'espace du groupe de volume   
+
+
