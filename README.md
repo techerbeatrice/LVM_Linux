@@ -18,14 +18,29 @@ ___
 
 ____
 
-Affichage des 3 partitions du système  
+Affichage des 3 partitions du système
 
-![image](https://github.com/techerbeatrice/LVM_Linux/assets/138071140/e7b8ef54-3465-457c-a343-7aa2f6d9d6e1)
+![image](https://github.com/techerbeatrice/LVM_Linux/assets/138071140/4bf23b3a-611d-4fb6-ab94-cffa05ceee08)
 
 ![image](https://github.com/techerbeatrice/LVM_Linux/assets/138071140/d4c2d5a2-de2a-4f4c-beb7-6b72a393d21d)
 
-___
+____
 
 Ajoute un nouveau disque à la machine et ajoute le au groupe de volume debian-vg pour au moins doubler l'espace du groupe de volume   
 
+![image](https://github.com/techerbeatrice/LVM_Linux/assets/138071140/7b96b2a2-3eb9-4a2b-890d-d10dc53cb07b)
+
+____
+
+Affichage du nouveau disque (sdb)   
+
+![image](https://github.com/techerbeatrice/LVM_Linux/assets/138071140/5298d332-c7da-4cd1-8ab5-d9075c933a38)
+
+___
+
+Partionner sdb   
+
+
+
+Ajoute le au groupe de volume debian-vg pour au moins doubler l'espace du groupe de volume   
 
