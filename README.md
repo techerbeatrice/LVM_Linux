@@ -39,9 +39,5 @@ Affichage du nouveau disque (sdb)
 
 ___
 
-Partionner sdb   
-
-
-
 Ajoute le au groupe de volume debian-vg pour au moins doubler l'espace du groupe de volume   
 
