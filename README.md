@@ -1,8 +1,9 @@
 # LVM sur Linux
 _____
 
-**Installation d'un système debian avec LVM**    
-**puis passer en root pour afficher les informations sur le stockage**  
+**Installation d'un système debian avec LVM** 
+
+**Passer en root pour afficher les informations sur le stockage**  
 
 lsblk affiche la liste des périphériques bloc et leur type donc aussi la liste des LV   
 pvs, vgs et lvs affichent la liste courte des PV, VG et LV  
