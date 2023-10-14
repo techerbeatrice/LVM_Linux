@@ -60,7 +60,17 @@ On crée le snapshot en lui donnant un nom explicite (par exemple le nom du lv a
 
 ___
 
-Monter le snapshot créé sur /home-snap avec la commande **_mount_**       
+créer le dossier home-snap et monter le snapshot créé sur /home-snap avec la commande **_mount_**   
 
+![image](https://github.com/techerbeatrice/LVM_Linux/assets/138071140/3b2bcd77-bb19-486c-8a97-cc319330b362)
+
+___
+
+On peut alors travailler sur /home-snap et y faire des modifications. En supposant qu'on a maintenant plus besoin de la copie, démonte /home-snap avec la commande **_umount_**  
+Détruit le snapshot avec la commande **_lvremove_**  
+
+![image](https://github.com/techerbeatrice/LVM_Linux/assets/138071140/52fcb654-faca-49c6-a588-9ef562ac0cbc)
+
+![image](https://github.com/techerbeatrice/LVM_Linux/assets/138071140/481c4eef-1ccd-459e-b6c5-8ab1cf660641)
 
 
