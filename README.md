@@ -39,5 +39,10 @@ Affichage du nouveau disque (sdb)
 
 ___
 
-Ajoute le au groupe de volume debian-vg pour au moins doubler l'espace du groupe de volume   
+Ajouter le nouveau disque au groupe de volume debian-vg pour au moins doubler l'espace du groupe de volume avec la commande vgextend   
+Vérifier l'ajout du nouveau disque au volume debian-vg avec la commande vgdisplay  
+
+![image](https://github.com/techerbeatrice/LVM_Linux/assets/138071140/eeec3a3b-1a2f-4a36-82ac-15eea38fa2a0)
+
+
 
