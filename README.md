@@ -5,7 +5,7 @@ _____
 
 **Passer en root pour afficher les informations sur le stockage**  
 
-- Volume physique (physical volume = PV) : **1 disque dur = 1 PV**, par exemple /dev/sda
+- Volume physique (physical volume = PV) : **1 PV = 1 disque dur**, par exemple /dev/sda
 - Groupe de volumes (volume group = VG) : **1 VG =  1 groupe de disques durs**          
 - Volumes logiques (logical volume = LV) : **1 LV = 1 groupe partionné de disques durs**      
   
